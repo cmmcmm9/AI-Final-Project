@@ -1,0 +1,3 @@
+# AI-Final-Project
+Final Project for the AI course offered at Salem State University. Compares the BFS and DFS algorithms.
+Final project for the A.I. course offered by Salem State University. An application written in Java that implements the Breadth-first search and Depth-first search algorithms to find the selected UPC, by a particular Vendor. The application will use both DFS and BFS to find a given UPC in a binary search tree, and will print out the total nodes visited, the path it traveled, as well as the time it took (in milliseconds) to find the desired solution. The project demonstrates the strengths and weaknesses of both search algorithms by comparing the two in different scenarios. 
