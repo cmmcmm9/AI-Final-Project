@@ -216,7 +216,7 @@ public class Gui extends javax.swing.JFrame {
         List<String> myclosedList = myTree.getClosedList();
         jTextArea1.setText("The product is: " + productDescrip);
         jTextArea1.append("\nThis search took " + duration + " milli-seconds.");
-        jTextArea1.append("\nThe number of nodes visited are: " + myclosedList.size());
+        jTextArea1.append("\nThe number of nodes visited is: " + myclosedList.size());
         jTextArea1.append("\nThe nodes visited are: \n");
         jTextArea1.setCaretPosition(0);
         //print out closed lists
@@ -234,7 +234,7 @@ public class Gui extends javax.swing.JFrame {
         myclosedList = myTree.getClosedList();
         jTextArea2.setText("The product is: " + productDescrip);
         jTextArea2.append("\nThis search took " + duration + " milli-seconds.");
-        jTextArea2.append("\nThe number of nodes visited are: " + myclosedList.size());
+        jTextArea2.append("\nThe number of nodes visited is: " + myclosedList.size());
         jTextArea2.append("\nThe nodes visited are: \n");
         jTextArea2.setCaretPosition(0);
         //print out closed lists
