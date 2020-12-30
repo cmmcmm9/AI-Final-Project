@@ -1,1 +1,0 @@
-04/12/20 10:55:55  Error: AdsQuery1: Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [Extended Systems][Advantage SQL Engine]Expected lexical element not found: USER There was a problem parsing the WHERE clause in your SELECT statement. -- Location of error in the SQL statement is: 71 (line: 2 column: 19)
